@@ -11,6 +11,7 @@
     <description>java lab</description>
     <modules>
         <module>java-datetime</module>
+        <module>java-thread</module>
     </modules>
     <url>https://github.com/zhangliang2198/java-base-lab</url>
     <properties>
